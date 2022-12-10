@@ -22,4 +22,5 @@ wget
 youtube_dl
 html5lib
 pySmartDL
+gunicorn==20.1.0
 
