@@ -22,4 +22,4 @@ wget
 youtube_dl
 html5lib
 pySmartDL
-yt-dl
+
